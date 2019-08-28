@@ -2,11 +2,11 @@ import 'package:ahmed_trips_app/Place.dart';
 import 'package:flutter/material.dart';
 import 'floatting_action_button_fav.dart';
 
-class ProfilePlaceInfo extends StatelessWidget {
+class PlaceSearchInfo extends StatelessWidget {
 
   PlaceTripp place;
 
-  ProfilePlaceInfo(this.place);
+  PlaceSearchInfo(this.place);
 
   @override
   Widget build(BuildContext context) {
@@ -61,10 +61,13 @@ class ProfilePlaceInfo extends StatelessWidget {
     );
 
     final card = Container(
-      width: screenWidth * 0.65,
+      width: screenWidth * 0.95,
+      margin: EdgeInsets.only(
+        bottom: 10
+      ),
       decoration: BoxDecoration(
           borderRadius: BorderRadius.all(Radius.circular(10.0)),
-          color: Colors.white,
+          color: Colors.white70,
           boxShadow: <BoxShadow>[
             BoxShadow(
                 color: Colors.black38,
@@ -87,7 +90,7 @@ class ProfilePlaceInfo extends StatelessWidget {
     );
 
     return Stack(
-      alignment: Alignment(0.8, 1.25),
+      alignment: Alignment(0.8, 1.35),
       children: <Widget>[
         card,
         floatting_action_button_fav()

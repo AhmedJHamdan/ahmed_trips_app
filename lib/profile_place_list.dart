@@ -11,12 +11,12 @@ class ProfilePlacesList extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       margin: EdgeInsets.only(
-          top: 10.0,
+          top: 300.0,
           left: 20.0,
           right: 20.0,
           bottom: 10.0
       ),
-      child: Column(
+      child: ListView(
         children: <Widget>[
           ProfilePlace('assets/images/river.jpeg', place),
           ProfilePlace('assets/images/mountain.jpeg', place2),
