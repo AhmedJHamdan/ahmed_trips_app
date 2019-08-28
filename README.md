@@ -1,16 +1,11 @@
 # ahmed_trips_app
 
-A new Flutter application.
+A Flutter trips application with modern UI
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![alt Home Page](https://fotos.subefotos.com/96d3a990748ab682fe2ff253cfc510c7o.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![alt Home Page](https://fotos.subefotos.com/e63ab008ca9b5e7bbda7c6f7cb7f93b6o.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt Profile](https://i.ibb.co/K2w444c/8211ef8b70b475b7752331aad5d832eeo.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
