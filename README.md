@@ -1,6 +1,6 @@
 # ahmed_trips_app
 
-myTrip is the easy way to plan, organize and share your trip plans. 
+myTrip is the easy way to plan, organize and share your trip plans...
 
 To get the full app contact me: ahmedhamdan9898@gmail.com
 
